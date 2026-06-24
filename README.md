@@ -5,7 +5,7 @@ AI-based phishing email detection system using Machine Learning (Logistic Regres
 
 ### AI-Based Phishing Email Detection System (Machine Learning + Deep Learning)
 
-🚀 **Live Demo:**https://star-phishguard-ai.streamlit.app/
+🚀 **Live Demo:** https://star-phishguard-ai.streamlit.app/
 📂 **Repository:** STAR-PhishGuard-AI
 
 ---
